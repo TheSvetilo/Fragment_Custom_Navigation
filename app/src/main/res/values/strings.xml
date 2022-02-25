@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fragment Custom Navigation</string>
+    <string name="default_text">Default text</string>
+    <string name="next">Next</string>
+    <string name="go_back">Go back</string>
+    <string name="confirm">Confirm</string>
+    <string name="third_text">Third text</string>
+    <string name="go_to_menu">Go to menu</string>
+    <string name="second_fragment_title">Second Fragment</string>
+    <string name="third_fragment_title">Third Fragment</string>
+    <string name="toolbar_desc_done">Done</string>
+</resources>
